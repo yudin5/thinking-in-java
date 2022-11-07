@@ -1,4 +1,4 @@
-package ch_19;
+package ch_19_enums;
 
 public enum Shrubbery {
     TASTE,

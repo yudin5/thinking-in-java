@@ -1,4 +1,4 @@
-package ch_19;
+package ch_19_enums;
 
 public class ShrubberyDrive {
     public static void main(String[] args) {
