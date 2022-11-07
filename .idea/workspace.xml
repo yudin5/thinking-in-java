@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="271ab2db-122d-49d9-ba97-87ccea2f6793" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch_19/Shrubbery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch_19/ShrubberyDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch_19/Shrubbery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch_19_enums/Shrubbery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch_19/ShrubberyDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch_19_enums/ShrubberyDrive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RunManager" selected="Application.ShrubberyDrive">
@@ -53,11 +53,11 @@
       </method>
     </configuration>
     <configuration name="ShrubberyDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_19.ShrubberyDrive" />
+      <option name="MAIN_CLASS_NAME" value="ch_19_enums.ShrubberyDrive" />
       <module name="thinking-in-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch_19.*" />
+          <option name="PATTERN" value="ch_19_enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +80,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667847318401</updated>
-      <workItem from="1667847320072" duration="302000" />
+      <workItem from="1667847320072" duration="1107000" />
     </task>
+    <task id="LOCAL-00001" summary="shrubbery test, initial">
+      <created>1667847741784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667847741784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="shrubbery test, initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="shrubbery test, initial" />
   </component>
 </project>
